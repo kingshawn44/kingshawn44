@@ -1,0 +1,15 @@
+{
+  "id": "world_042",
+  "name": "JUSHAUNE — Starter Project",
+  "author": "Teacher starter for JUSHAUNE",
+  "description": "Recover the repair core, clear two turrets and reach the exit.",
+  "iconColor": "yellow",
+  "position": {
+    "x": 640,
+    "y": 256
+  },
+  "width": 32,
+  "height": 32,
+  "levelId": "world_042_level",
+  "rewardId": "key_world_042"
+}
