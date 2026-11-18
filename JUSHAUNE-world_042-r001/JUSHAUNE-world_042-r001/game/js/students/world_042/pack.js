@@ -73,7 +73,7 @@ registerStudentPack({
   },
   "dialogue": {
     "mission": {
-      "speaker": "Mechanic",
+      "speaker": "town Mechanic",
       "lines": [
         "Hold F to fire. Aim with I/up, J/left, K/down, L/right; combine for diagonals.",
         "Without aim keys you shoot where you face. Move with WASD or arrows.",
