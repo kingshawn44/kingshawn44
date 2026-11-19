@@ -80,7 +80,8 @@ registerStudentPack({
         "Walk around cover; this mode has no jumping.",
         "Turrets flash yellow before firing. Their pink shots hurt; cyan shots are yours.",
         "Collect the repair core, clear both turrets and reach the gold exit.",
-        "R resets health, enemies and items. Escape returns home without a reward."
+        "R resets health, enemies and items. Escape returns home without a reward.",
+        "" thank you for playing the game hope to see you again
       ]
     }
   },
