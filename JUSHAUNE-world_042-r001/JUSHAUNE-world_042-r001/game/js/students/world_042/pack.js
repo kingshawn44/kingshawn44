@@ -81,7 +81,7 @@ registerStudentPack({
         "Turrets flash yellow before firing. Their pink shots hurt; cyan shots are yours.",
         "Collect the repair core, clear both turrets and reach the gold exit.",
         "R resets health, enemies and items. Escape returns home without a reward.",
-        "" thank you for playing the game hope to see you again
+        " thank you for playing the game hope to see you again"
       ]
     }
   },
@@ -92,8 +92,8 @@ registerStudentPack({
     "width": 960,
     "height": 640,
     "spawn": {
-      "x": 96,
-      "y": 320
+      "x": 250,
+      "y": 250
     },
     // Solid cover blocks walking AND shots. Platformers need a floor.
     "solids": [
